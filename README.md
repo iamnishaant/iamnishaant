@@ -8,9 +8,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1c1917?style=flat-square&logo=vercel&logoColor=E0AE52)](https://github.com/iamnishaant/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1917?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nishant-shah-638577256/)
-[![Email](https://img.shields.io/badge/Email-1c1917?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:nishant108ns@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=vercel&logoColor=E0AE52)](https://github.com/iamnishaant/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1917?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nishant-shah-638577256/)
+[![Email](https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nishant108ns@gmail.com)
 
 </div>
 
@@ -26,13 +26,70 @@ The idea I keep coming back to: **a chain of AI agents can read a receipt, book 
 
 ### Selected work
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[LedgerMind](https://github.com/iamnishaant/LedgerMind)** · [live ↗](https://ledger-mind-nu.vercel.app) | Agentic finance OS for SMBs — receipt OCR → categorization → GST/ITC intelligence → fraud checks → budget alerts, with a tool-calling CFO chat over your own books | FastAPI · Next.js · Supabase · PaddleOCR |
-| **[NeuroBank](https://github.com/iamnishaant/NeuroBank)** | Multi-agent banking assistant for **NepGlish** (Nepali–English code-mixed speech). A fine-tuned 8B SLM does sub-second intent classification locally, replacing cloud LLM calls | FastAPI · React · MongoDB · PyTorch |
-| **[IntelliSpec AI](https://github.com/iamnishaant/IntelliSpec-AI)** | Audits software requirement specs for ambiguity, then synthesizes editable Use Case / Activity / DFD diagrams from natural language | LLM + VLM · JointJS · TypeScript |
-| **[ClarityStack](https://github.com/iamnishaant/Clarity-Stack)** | Local-first knowledge system that turns long AI chats into structured, version-controlled knowledge — while keeping raw history as immutable ground truth | FastAPI · SQLite · Next.js · Compose |
-| **[Nishant OS](https://github.com/iamnishaant/Portfolio)** | Portfolio where the website *is* the project — canvas neural-net background, knowledge graph, motion-first | Next.js 16 · React 19 · Motion |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 📒 [LedgerMind](https://github.com/iamnishaant/LedgerMind)
+
+Agentic finance OS for small businesses — receipt OCR → categorization → GST/ITC intelligence → fraud checks → budget alerts, with a tool-calling CFO chat over your own books.
+
+`FastAPI` `Next.js` `Supabase` `PaddleOCR`
+
+[**Live ↗**](https://ledger-mind-nu.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏦 [NeuroBank](https://github.com/iamnishaant/NeuroBank)
+
+Multi-agent banking assistant for **NepGlish** (Nepali–English code-mixed speech). A fine-tuned 8B SLM handles sub-second intent classification locally, replacing cloud LLM calls.
+
+`FastAPI` `React` `MongoDB` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 [IntelliSpec AI](https://github.com/iamnishaant/IntelliSpec-AI)
+
+Audits software requirement specs for ambiguity, then synthesizes editable Use Case / Activity / DFD diagrams straight from natural language.
+
+`LLM + VLM` `JointJS` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗂️ [ClarityStack](https://github.com/iamnishaant/Clarity-Stack)
+
+Local-first knowledge system that turns long AI chats into structured, version-controlled knowledge — while keeping raw history as immutable ground truth.
+
+`FastAPI` `SQLite` `Next.js` `Compose`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖥️ [Nishant OS](https://github.com/iamnishaant/Portfolio)
+
+Portfolio where the website *is* the project — canvas neural-net background, interactive knowledge graph, motion-first throughout.
+
+`Next.js 16` `React 19` `Motion`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [All repositories](https://github.com/iamnishaant?tab=repositories)
+
+Computer vision, domain adaptation, style transfer, maritime risk intelligence, ROS2 robotics — the rest of the workbench.
+
+[**Browse ↗**](https://github.com/iamnishaant?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -40,29 +97,29 @@ The idea I keep coming back to: **a chain of AI agents can read a receipt, book 
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1c1917?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c1917?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-1c1917?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1c1917?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-1c1917?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-1c1917?style=flat-square&logo=pandas&logoColor=E0AE52)
+![PyTorch](https://img.shields.io/badge/PyTorch-1c1917?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c1917?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1c1917?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1c1917?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-1c1917?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-1c1917?style=for-the-badge&logo=pandas&logoColor=E0AE52)
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-1c1917?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-1c1917?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1917?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-1c1917?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1c1917?style=flat-square&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-1c1917?style=flat-square&logo=docker&logoColor=2496ED)
+![Python](https://img.shields.io/badge/Python-1c1917?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1c1917?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1917?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-1c1917?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-1c1917?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1c1917?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-1c1917?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1c1917?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1c1917?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Motion](https://img.shields.io/badge/Motion-1c1917?style=flat-square&logo=framer&logoColor=E0AE52)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1917?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-1c1917?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1c1917?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1c1917?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Motion](https://img.shields.io/badge/Motion-1c1917?style=for-the-badge&logo=framer&logoColor=E0AE52)
 
 <br>
 
