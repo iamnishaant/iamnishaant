@@ -18,7 +18,7 @@
 
 ### Currently
 
-Final-year **AI & Data Science** undergrad, spending most of my time on **[LedgerMind](https://github.com/iamnishaant/LedgerMind)** — an agentic financial operating system that acts as a virtual accountant, bookkeeper, analyst, and CFO for small businesses.
+Final-year **CSE AI** undergrad, spending most of my time on **[LedgerMind](https://github.com/iamnishaant/LedgerMind)** — an agentic financial operating system that acts as a virtual accountant, bookkeeper, analyst, and CFO for small businesses.
 
 The idea I keep coming back to: **a chain of AI agents can read a receipt, book the expense, flag the fraud, and watch it against a budget — but every number has to be computed deterministically.** The LLM reasons and explains. It never invents a figure.
 
